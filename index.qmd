@@ -61,13 +61,13 @@ Has expanded upon [R Markdown]{.teal} to add new languages and can add more in t
 
 Let’s bring [R Markdown]{.teal} to everybody!
 
-## {background-image="images/quarto-python.png"}
+## {background-image="images/quarto-python.webp"}
 
-## {background-image="images/quarto-r.png"}
+## {background-image="images/quarto-r.webp"}
 
-## {background-image="images/quarto-julia.png"}
+## {background-image="images/quarto-julia.webp"}
 
-## {background-image="images/quarto-observable.png"}
+## {background-image="images/quarto-observable.webp"}
 
 ## Imagine
 
@@ -211,15 +211,15 @@ that you know
 what you want
 :::
 
-## {background-image="branding/1.png"}
+## {background-image="branding/1.webp"}
 
-## {background-image="branding/2.png"}
+## {background-image="branding/2.webp"}
 
-## {background-image="branding/3.png"}
+## {background-image="branding/3.webp"}
 
-## {background-image="branding/4.png"}
+## {background-image="branding/4.webp"}
 
-## {background-image="branding/5.png"}
+## {background-image="branding/5.webp"}
 
 ## HTML documents
 
@@ -458,7 +458,7 @@ index.html
 
 ::: columns
 ::: {.column width="60%"}
-![](drob.png)
+![](drob.webp)
 :::
 
 ::: {.column .fragment width="40%"}
